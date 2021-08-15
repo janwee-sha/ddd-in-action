@@ -4,6 +4,7 @@ import com.janwee.dddinaction.com.janwee.collaboration.domain.model.collaborator
 
 import java.util.Collection;
 
+//面向集合的CalendarEntry资源库
 //将聚合仓库的接口与对应的聚合放在相同的模块（Java包）中
 public interface CalendarEntryRepository {
     void add(CalendarEntry entry);
