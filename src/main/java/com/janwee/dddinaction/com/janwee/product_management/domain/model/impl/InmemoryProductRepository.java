@@ -5,10 +5,10 @@ import com.janwee.dddinaction.com.janwee.product_management.domain.model.Product
 
 import java.util.*;
 
-public class InmemoryProductRepository implements ProductRepository {
+public class InMemoryProductRepository implements ProductRepository {
     private Map<String, Product> store;
 
-    public InmemoryProductRepository() {
+    public InMemoryProductRepository() {
         this.store = new HashMap<>();
     }
 
