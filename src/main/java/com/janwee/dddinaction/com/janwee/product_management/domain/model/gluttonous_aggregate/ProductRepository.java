@@ -1,4 +1,4 @@
-package com.janwee.dddinaction.com.janwee.product_management.domain.model;
+package com.janwee.dddinaction.com.janwee.product_management.domain.model.gluttonous_aggregate;
 
 import java.util.Collection;
 
