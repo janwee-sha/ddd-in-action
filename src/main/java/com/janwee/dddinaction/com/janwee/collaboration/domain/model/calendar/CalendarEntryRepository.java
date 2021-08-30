@@ -1,6 +1,6 @@
 package com.janwee.dddinaction.com.janwee.collaboration.domain.model.calendar;
 
-import com.janwee.dddinaction.com.janwee.collaboration.domain.model.collaborator.Tenant;
+import com.janwee.dddinaction.com.janwee.identityaccess.domain.model.Tenant;
 
 import java.util.Collection;
 

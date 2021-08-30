@@ -3,7 +3,7 @@ package com.janwee.dddinaction.com.janwee.collaboration.infra.persistence;
 import com.janwee.dddinaction.com.janwee.collaboration.domain.model.calendar.CalendarEntry;
 import com.janwee.dddinaction.com.janwee.collaboration.domain.model.calendar.CalendarEntryRepository;
 import com.janwee.dddinaction.com.janwee.collaboration.domain.model.calendar.TimeSpan;
-import com.janwee.dddinaction.com.janwee.collaboration.domain.model.collaborator.Tenant;
+import com.janwee.dddinaction.com.janwee.identityaccess.domain.model.Tenant;
 
 import java.util.Collection;
 

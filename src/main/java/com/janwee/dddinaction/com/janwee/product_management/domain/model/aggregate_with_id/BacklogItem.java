@@ -5,9 +5,19 @@ public class BacklogItem {
     private String id;
     private String productId;
     private String teamId;
+    private String summary;
+    private String story;
 
     public String teamId() {
         return this.teamId;
+    }
+
+    public String summary() {
+        return this.summary;
+    }
+
+    public String story() {
+        return this.story;
     }
 
     public void assignTeamMemberToTask(String teamMemberId, Team team, String taskId) {
